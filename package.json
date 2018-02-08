@@ -1,7 +1,7 @@
 {
   "name": "copyfilename",
   "main": "./lib/copyfilename",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Copy filename in the current pane",
   "keywords": [],
   "activationCommands": {
