@@ -2,7 +2,7 @@
   "name": "copyfilename",
   "main": "./lib/copyfilename",
   "version": "0.2.0",
-  "description": "A short description of your package",
+  "description": "Copy filename in the current pane",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "copyfilename:toggle"
